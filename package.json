@@ -1,0 +1,32 @@
+{
+  "name": "curso_node",
+  "version": "1.0.0",
+  "description": "Bases para aprender node",
+  "keywords": [
+    "node",
+    "curso",
+    "aprender",
+    "desarrollo"
+  ],
+  "homepage": "https://github.com/DanielGomez23/cursoNodeJs#readme",
+  "bugs": {
+    "url": "https://github.com/DanielGomez23/cursoNodeJs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGomez23/cursoNodeJs.git"
+  },
+  "license": "ISC",
+  "author": "Daniel Gomez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}
